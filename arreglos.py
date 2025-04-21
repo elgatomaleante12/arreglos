@@ -1,5 +1,5 @@
 #hola soy un comentario 
-nombre = "joaco" 
+nombre = "lucho
 edad = 30 
 estatura =1.6
 esDocente = True
